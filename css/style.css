@@ -79,7 +79,7 @@ a {
 .title-SG {
     height: 80px;
     margin: 0 10px;
-    background-image: url("../assets/Logo_securigreffe_2018_blanc.png");
+    background-image: url("../assets/Logo_securigreffe_2018_blanc.svg");
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -134,7 +134,7 @@ a {
 
 .link-logo-2 {
     height: 150px;
-    background-image: url("../assets/Logo_securigreffe_2018_couleur.png");
+    background-image: url("../assets/Logo_securigreffe_2018_couleur.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;

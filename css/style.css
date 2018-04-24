@@ -38,6 +38,7 @@
 
 body {
     margin: 0;
+    font-family: MuktaMahee;
 }
 
 a {
@@ -57,13 +58,23 @@ a {
 @font-face {
     /* font-properties */
     font-family: MuktaMahee;
-    src: url('./fonts/Mukta_Mahee/MuktaMahee-Medium.ttf');
+    font-style: normal;
+    src: url('./fonts/Mukta_Mahee/mukta-mahee-v2-latin-regular.eot'),
+    url('./fonts/Mukta_Mahee/mukta-mahee-v2-latin-regular.svg'),
+    url('./fonts/Mukta_Mahee/mukta-mahee-v2-latin-regular.ttf'),
+    url('./fonts/Mukta_Mahee/mukta-mahee-v2-latin-regular.woff'),
+    url('./fonts/Mukta_Mahee/mukta-mahee-v2-latin-regular.woff2');
 }
 
 @font-face {
     /* font-properties */
     font-family: Roboto;
-    src: url('./fonts/Roboto/Roboto-Regular.ttf');
+    font-style: normal;
+    src: url('./fonts/Roboto/roboto-v18-latin-regular.eot'),
+    url('./fonts/Roboto/roboto-v18-latin-regular.svg'),
+    url('./fonts/Roboto/roboto-v18-latin-regular.ttf'),
+    url('./fonts/Roboto/roboto-v18-latin-regular.woff'),
+    url('./fonts/Roboto/roboto-v18-latin-regular.woff2');
 }
 
 /********************************* Topbar ***********************************/
